@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC 
 
 # Load the iris dataset 
-df = pd.read_csv(r"C:\Users\Srikanth N\Downloads\archive\Iris.csv") 
+df = pd.read_csv(r"C:Iris.csv") 
 print(df.columns)
 
 # Split the data into features and labels
